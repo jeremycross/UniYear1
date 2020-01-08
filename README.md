@@ -23,7 +23,7 @@ Lab 4 - Working with function pointers and sorting arrays
   
 The 'Assignments' folder contains projects that were generally completed within a 6-10 hour window. The purpose of each assignment is as follows:  
   
-Assignment 1 - 
+Assignment 1 - Test harness program that allows dynamic allocation of arrays   
 Assignment 2 - 
 Assignment 3 - 
 Assignment 4 - 
