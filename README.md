@@ -18,7 +18,12 @@ The 'Labs' folder contains programs which were to take approximately 1-2 hours t
   
 Lab 1 - Analyse inputted poem from user (outputs: number of words per line and sum of words)  
 Lab 2 - Reverse an inputted poem with dynamic allocation of the poem (outputs: the inputted poem with end line first and continuing)  
-Lab 3 - 
+Lab 3 - Student record using structs and dynamic allocation  
 Lab 4 - Working with function pointers and sorting arrays  
   
 The 'Assignments' folder contains projects that were generally completed within a 6-10 hour window. The purpose of each assignment is as follows:  
+  
+Assignment 1 - 
+Assignment 2 - 
+Assignment 3 - 
+Assignment 4 - 
