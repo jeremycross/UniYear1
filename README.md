@@ -11,7 +11,7 @@ The 'labs' folder contains programs that were used as very simple introductions 
 ### Assignments
 The 'assignments' folder contains programs that were slightly larger in scale, however, were still quite simple. The purpose of each assignment is as follows:   
   
-Assignment 1 - Grade Calculator [a relative link](Beginner/assignments/crossJeremyA1)
+Assignment 1 - Grade Calculator [a relative link] (https://github.com/jeremycross/UniYear1/blob/master/Beginner/assignments/crossJeremyA1.c)
 Assignment 2 - Who Wants to be a Millonaire Text-based Game  
 Assignment 3 - Tic-Tac-Toe AI  
   
