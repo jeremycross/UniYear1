@@ -11,9 +11,9 @@ The 'labs' folder contains programs that were used as very simple introductions 
 ### Assignments
 The 'assignments' folder contains programs that were slightly larger in scale, however, were still quite simple. The purpose of each assignment is as follows:   
   
-Assignment 1 - Grade Calculator [a relative link](./Beginner/assignments/crossJeremyA1.c)
-Assignment 2 - Who Wants to be a Millonaire Text-based Game  
-Assignment 3 - Tic-Tac-Toe AI  
+[Assignment 1](./Beginner/assignments/crossJeremyA1.c) - Grade Calculator
+[Assignment 2](./Beginner/assignments/crossJeremyA2.c) - Who Wants to be a Millonaire Text-based Game  
+[Assignment 3](./Beginner/assignments/crossJeremyA3.c) - Tic-Tac-Toe AI  
   
 ## Intermediate Programming  
 The Intermediate programs were made in my Intermediate C programming course in University.  
