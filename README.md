@@ -30,6 +30,6 @@ The ['Labs' folder](./Intermediate/Labs) contains programs which were to take ap
 The ['Assignments' folder](./Intermediate/Assignments) contains projects that were generally completed within a 6-10 hour window. The purpose of each assignment is as follows:  
   
 [Assignment 1](./Intermediate/Assignments/A1) - Test harness program that allows dynamic allocation of arrays   
-Assignment 2(./Intermediate/Assignments/A1) - Calculate the Flesch index (readability) of written work  
-Assignment 3 - Create a contact list that will be stored in a file, adding and searching contacts is available. The file must act like a linked list where each contact has a next position variable when written to and read from.  
-Assignment 4 - Adding onto Assignment 3, created a menu system with editing, deleting, and searching contacts  
+[Assignment 2](./Intermediate/Assignments/A2) - Calculate the Flesch index (readability) of written work  
+[Assignment 3](./Intermediate/Assignments/A3) - Create a contact list that will be stored in a file, adding and searching contacts is available. The file must act like a linked list where each contact has a next position variable when written to and read from.  
+[Assignment 4](./Intermediate/Assignments/A4) - Adding onto Assignment 3, created a menu system with editing, deleting, and searching contacts  
