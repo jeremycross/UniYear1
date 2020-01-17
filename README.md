@@ -6,12 +6,12 @@ All programs are written in c, in intermediate programming makefiles are used fo
 The Beginner programs were made in my introduction to C course in University.  
 
 ### Labs
-The 'labs' folder contains programs that were used as very simple introductions to concepts/syntax in C.
+The ['labs' folder](./Beginner/assignments) contains programs that were used as very simple introductions to concepts/syntax in C.
 
 ### Assignments
-The 'assignments' folder contains programs that were slightly larger in scale, however, were still quite simple. The purpose of each assignment is as follows:   
+The ['assignments' folder](./Beginner/assignments) contains programs that were slightly larger in scale, however, were still quite simple. The purpose of each assignment is as follows:   
   
-[Assignment 1](./Beginner/assignments/crossJeremyA1.c) - Grade Calculator
+[Assignment 1](./Beginner/assignments/crossJeremyA1.c) - Grade Calculator  
 [Assignment 2](./Beginner/assignments/crossJeremyA2.c) - Who Wants to be a Millonaire Text-based Game  
 [Assignment 3](./Beginner/assignments/crossJeremyA3.c) - Tic-Tac-Toe AI  
   
