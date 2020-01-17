@@ -22,7 +22,7 @@ This course also introduced Makefiles which were included in each submission for
 The 'Labs' folder contains programs which were to take approximately 1-2 hours to complete and mainly focused on using a concept practically. The topics of the labs are as follows:  
   
 Lab 1 - Analyse inputted poem from user (outputs: number of words per line and sum of words)  
-Lab 2 - Reverse an inputted poem with dynamic allocation of the poem (outputs: the inputted poem with end line first and continuing)  
+Lab 2 - Reverse an inputted poem with dynamic allocation of the poem (outputs: inputted poem a line at a time starting with the last line to be inputted and continuing until the first line entered)  
 Lab 3 - Student record using structs and dynamic allocation  
 Lab 4 - Working with function pointers and sorting arrays  
   
